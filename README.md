@@ -92,7 +92,6 @@ See the header of `scripts/build_prd_docx.py` for the JSON spec format. It suppo
 
 ## Known limitations
 
-- Not yet validated across many real initiatives; expect to tune questions and pushback tone with use.
 - Docx layout (the "core fits on about one page" goal) has not been checked with a visual render in every environment. LibreOffice or Word is needed for that check.
 - Architecture detail depends on what you provide; the skill flags it for Engineering to confirm rather than inventing internal systems.
 - Jira, Confluence and Slack reading depends on the connectors being installed and authorized.
@@ -104,3 +103,5 @@ Issues and pull requests are welcome, especially real-world feedback on the inte
 ## License
 
 TBD. Add a license before publishing, for example MIT.
+MIT; see [LICENSE](to be added). Use these however you like.
+
